@@ -1,0 +1,45 @@
+.wrapper {
+  display: flex;
+  color: white;
+
+  justify-content: space-around;
+  padding-bottom: 80px;
+}
+
+.icon {
+  color: white;
+  padding: 15px;
+  margin-left: 50px;
+}
+.icon ul {
+  display: flex;
+  list-style-type: none;
+}
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding: 5px;
+}
+.icon ul li {
+  padding: 5px;
+}
+
+.service {
+  color: white;
+  margin-left: 50px;
+  padding: 10px;
+  border: solid 2px white;
+  width: 150px;
+  margin-bottom: 10px;
+}
+.copyRight {
+  color: white;
+  margin-left: 50px;
+}
+
+.last {
+  padding: 20px;
+  padding-bottom: 100px;
+}
